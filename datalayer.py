@@ -36,6 +36,7 @@ de_para_sigla = {'Acre' : 'AC',
 
 
 def get_cities():
+    # tabela fornecida pelo hackathon com as cidades mais importantes
     cities = pd.read_excel('data/2018 12 12 _ database challenge.xlsx')
     cities = cities.drop('Unnamed: 0', 1)
     cities['Cidades'] = cities['Cidades'].apply(lambda x: re.sub(r'\([^)]*\)', '', x))
@@ -57,7 +58,8 @@ def get_cities():
     return cities
 
 def get_airports():
-    ### source https://raw.githubusercontent.com/jpatokal/openflights/master/data/airports.dat
+    # source: https://raw.githubusercontent.com/jpatokal/openflights/master/data/airports.dat
+    # dados de geolocalizacao dos aeroportos
     columns = ['indice', 'airport', 'city', 'country', 'tree', 'codigo', 'latitude_airport', 'longitude_airport', 'colum1', 'colum2', 'colum3', 'colum4', 'colum5', 'colum6']
     airports = pd.read_csv('data/airports.dat.txt', sep=',', names=columns)
     airports['city'] = airports['city'].str.upper()
@@ -68,6 +70,7 @@ def get_airports():
     return airports
 
 def get_airport_with_uf(airports, municipios):
+    # associando os aeroportos a cada estado.
     dict_duplicated_airports = {'Belém/Brigadeiro Protásio de Oliveira Airport': 'PA',
                                 'Val de Cans/Júlio Cezar Ribeiro International Airport': 'PA',
                                 'Atlas Brasil Cantanhede Airport': 'RR', 
@@ -103,7 +106,8 @@ def get_airport_with_uf(airports, municipios):
     
     
 def get_frotas():
-    ### source http://www.denatran.gov.br/estatistica/635-frota-2018
+    # source http://www.denatran.gov.br/estatistica/635-frota-2018
+    # frota por municipio
     frotas = pd.read_excel('data/frota.xls', skiprows=3)
     frotas = frotas[['UF', 'MUNICIPIO', 'CAMINHAO', 'CAMINHONETE', 'CAMIONETA', 'MOTOCICLETA']]
     
@@ -114,7 +118,7 @@ def get_frotas():
     return frotas
 
 def get_municipios():
-    ### source https://ww2.ibge.gov.br/home/estatistica/populacao/contagem2007/popmunic2007layoutTCU14112007.xls
+    # source https://ww2.ibge.gov.br/home/estatistica/populacao/contagem2007/popmunic2007layoutTCU14112007.xls
     municipios = pd.read_excel('data/municipios.xls', skiprows=3)
     municipios = municipios.rename(columns={'Unnamed: 3':'city', 'U.F': 'UF'})[['city', 'UF']]
     municipios['city'] = municipios['city'].str.upper()
@@ -125,7 +129,8 @@ def get_municipios():
     return municipios
 
 def get_decolagens():
-    ### source http://www.anac.gov.br/assuntos/dados-e-estatisticas/mercado-de-transporte-aereo/anuario-do-transporte-aereo/dados-do-anuario-do-transporte-aereo
+    # source http://www.anac.gov.br/assuntos/dados-e-estatisticas/mercado-de-transporte-aereo/anuario-do-transporte-aereo/dados-do-anuario-do-transporte-aereo
+    # numero de decolagens por municipio
     decolagens = pd.read_excel('data/decolagens.xlsx')
     decolagens = decolagens[~decolagens['Aeroporto'].str.contains('Total')]
     decolagens['Aeroporto'] = decolagens['Aeroporto'].apply(lambda x : x.split("-", maxsplit=1)[0])
@@ -134,7 +139,8 @@ def get_decolagens():
     return decolagens
 
 def get_gasolina():
-    ### source http://www.anp.gov.br/precos-e-defesa/234-precos/levantamento-de-precos/4606-infopreco-precos-praticados-pelos-postos-revendedores
+    # source http://www.anp.gov.br/precos-e-defesa/234-precos/levantamento-de-precos/4606-infopreco-precos-praticados-pelos-postos-revendedores
+    # preco de gasolina por municipio
     gasolina = pd.read_excel('data/infopreco-30-11-2018.xlsx', skiprows=5)
     gasolina_mean = gasolina.groupby(['MUNICÍPIO', 'UF', 'PRODUTO'], as_index=False)['VALOR VENDA'].mean()
     gasolina_mean_pivot = pd.pivot_table(gasolina_mean, values='VALOR VENDA', index=['MUNICÍPIO', 'UF'], columns=['PRODUTO']).reset_index()
@@ -148,6 +154,7 @@ def get_gasolina():
 
 def get_area_urbana():
     # source https://pt.wikipedia.org/wiki/Lista_de_munic%C3%ADpios_do_Brasil_por_%C3%A1rea_urbana
+    # area urbana por municipio
     area_urbana = pd.read_excel('data/urbana.xlsx')
     area_urbana = area_urbana[['Município', 'Unidade federativa', 'Área urbana (km²)']]
     area_urbana['Unidade federativa'] = area_urbana['Unidade federativa'].str.replace('Pará Pará', 'Pará')
@@ -163,7 +170,8 @@ def get_area_urbana():
     return area_urbana
 
 def get_geo_municipios():
-    ### https://github.com/kelvins/Municipios-Brasileiros
+    # https://github.com/kelvins/Municipios-Brasileiros
+    # geolocalizacao por municpio
     geo_municipios = pd.read_csv('data/municipios_geolocalizacao.csv')
     geo_municipios = geo_municipios.rename(columns={'nome_municipio': 'city'})
     
@@ -173,7 +181,8 @@ def get_geo_municipios():
     return geo_municipios[['city', 'uf', 'latitude', 'longitude']]
 
 def get_pib_municipio():
-    ### https://pt.wikipedia.org/wiki/Lista_de_munic%C3%ADpios_do_Brasil_por_PIB
+    # https://pt.wikipedia.org/wiki/Lista_de_munic%C3%ADpios_do_Brasil_por_PIB
+    # pib por municpio
     pib_municipio = pd.read_excel('data/pib_municipio.xlsx', header=None)
     pib_municipio = pib_municipio.rename(columns={0:'city', 1:'uf', 2:'pib'})
     pib_municipio['pib'] = pib_municipio['pib'].apply(lambda x: str(x).strip().replace(" ", ""))
@@ -189,7 +198,8 @@ def get_pib_municipio():
     return pib_municipio
 
 def get_sinistros():
-    ### http://www2.susep.gov.br/menuestatistica/RankRoubo/menu1.asp
+    # http://www2.susep.gov.br/menuestatistica/RankRoubo/menu1.asp
+    # numero de roubos de carga. 
     sinistros = pd.DataFrame()
 
     for file in glob.glob("data/sinistros/*.xlsx"):
@@ -216,6 +226,7 @@ def get_sinistros():
 
 def get_idh_renda():
     # http://www.atlasbrasil.org.br/2013/pt/ranking
+    # idh de renda por municipio
     idh = pd.read_csv('data/idh.csv', encoding='latin-1', sep=';', skiprows=1)
     idh['city'], idh['uf'] = idh['Nome'].str.split('(', 1).str
     idh['uf'] = idh['uf'].str.replace(')', '')

@@ -8,24 +8,28 @@ import geopy.distance
 import datalayer
 
 def fill_na_by_mean(data, columns):
+    # preechendo os dados com a media do estado
     for column in columns:
         data[column] = data.groupby(['uf'])[column].apply(lambda x: x.fillna(x.mean()))
         
     return data
 
 def set_scale_columns(data, columns):
+    # normalizando as colunas para o range [0, 1]
     for column in columns:
         data['scaled_' + column] = preprocessing.minmax_scale(data[column])
         
     return data
 
 def drop_scaled_columns(data, columns):
+    # dropando as colunas
     for column in columns:
         data = data.drop(['scaled_' + column], 1)
         
     return data
 
 def calculate_distance_airport(table):
+    # calculando a distancia do municipio para o princpial aeroporto do estado.
     table['distance_airport'] = table.apply(lambda x: geopy.distance.geodesic((x['latitude_airport'], x['longitude_airport']), (x['latitude'], x['longitude'])).km, 1)
     table.loc[table['tem_malha'] == 1, 'distance_airport'] = 0
     
