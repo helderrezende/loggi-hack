@@ -2,3 +2,6 @@
 data/.~lock.decolagens.xlsx#
 *.pyc
 data/output/.~lock.cidades.csv#
+data/output/cidades.csv
+data/output/score.json
+data/output/cidades.csv

@@ -38,8 +38,8 @@ def calculate_distance_airport(table):
 def calculate_score(table):
     ### CRITERIO
     ## viabilidade_terrestre - 15
-    ## viabilidade_aerea - 20
-    ## custo_indireto - 10
+    ## viabilidade_aerea - 15
+    ## custo_indireto - 15
     ## custo_direto - 20
     ## lucro - 35
     
@@ -55,7 +55,7 @@ def calculate_score(table):
     table['custo_direto'] = (2*table['scaled_distancia_cajamar'] + 1* table['scaled_distance_airport'])/3
     table['lucro'] = (1*table['scaled_pib'] + 1*table['scaled_area_urbana'] + 1* table['idh_renda'])/3
     
-    table['score'] = 0.15 * table['viabilidade_terrestre'] + 0.15 * table['viabilidade_aerea'] + 0.15 - table['custo_indireto'] + 0.20 - table['custo_direto'] + 0.35 * table['lucro']
+    table['score'] = 0.15 * table['viabilidade_terrestre'] + 0.15 * table['viabilidade_aerea'] - 0.15 * table['custo_indireto'] - 0.20 * table['custo_direto'] + 0.35 * table['lucro']
     
     return table
 
@@ -111,6 +111,7 @@ def run():
     
     ## saving final result
     cities.to_csv('data/output/cidades.csv')
+    cities[['latitude', 'longitude', 'score']].to_json('data/output/score.json', orient='index')
     
     return cities
 
