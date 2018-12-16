@@ -20,6 +20,27 @@ O objetivo foi procurar e tratar a maior quantidade de dados para melhorar o mod
 | area_urbana   | get_area_urbana  | lucro     |  EMBRAPA    |
 | idh_renda   | get_idh_renda  | lucro     |  ATLASBRASIL    | 
 
+## Score
+
+Foi utilizado o método parecido com priorização de projetos. São os 5 fatores:
+
+* viabilidade_terrestre
+* viabilidade_aerea 
+* custo_indireto 
+* custo_direto
+* lucro
+
+A modelagem é feita por pesos:
+
+| fator| peso | 
+| :---         |     :---:      | 
+| viabilidade_terrestre   | 15%    | 
+| viabilidade_aerea     | 15%  | 
+| custo_indireto     | 15%  | 
+| custo_direto   | 20%  | 
+| lucro   | 35%  |
+
+
 
 ## Rodando o modelo
 
