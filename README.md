@@ -19,3 +19,12 @@ O objetivo foi procurar e tratar a maior quantidade de dados para melhorar o mod
 | pib   | get_pib_municipio  | lucro     |  IBGE    | 
 | area_urbana   | get_area_urbana  | lucro     |  EMBRAPA    |
 | idh_renda   | get_idh_renda  | lucro     |  ATLASBRASIL    | 
+
+
+## Rodando o modelo
+
+```
+python score_calculator.py
+```
+
+Após rodar o python, o output será salvo em data/output.
