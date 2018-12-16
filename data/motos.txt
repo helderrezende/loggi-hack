@@ -1,0 +1,466 @@
+Pos.	Município	UF	Frota
+Motos maiores	Motonetas	Total
+1	 São Paulo	 São Paulo	868394	138527	1006921
+2	 Rio de Janeiro	 Rio de Janeiro	278596	40811	319407
+3	 Fortaleza	 Ceará	265870	8149	274019
+4	 Goiânia	 Goiás	220714	49928	270642
+5	 Belo Horizonte	 Minas Gerais	210384	17054	227438
+6	 Brasília	 Distrito Federal	171538	17201	188739
+7	 Teresina	 Piauí	153892	21395	175287
+8	 Manaus	 Amazonas	148081	14456	162537
+9	 Curitiba	 Paraná	134610	24735	159345
+10	 Campo Grande	 Mato Grosso do Sul	125582	27414	152996
+11	 Recife	 Pernambuco	134202	5540	139742
+12	 Ribeirão Preto	 São Paulo	102449	27207	129656
+13	 Salvador	Bahia Bahia	118293	8021	126314
+14	 Campinas	 São Paulo	108497	13755	122252
+15	 Belém	Pará Pará	104435	15421	119856
+16	 Uberlândia	 Minas Gerais	90969	19001	109970
+17	 Cuiabá	 Mato Grosso	83744	17683	101427
+18	 São Luís	 Maranhão	91737	9058	100795
+19	 Porto Alegre	 Rio Grande do Sul	90224	9787	100011
+20	 Porto Velho	 Rondônia	80003	18243	98246
+21	 São José do Rio Preto	 São Paulo	79895	14525	94420
+22	 João Pessoa	 Paraíba	87629	5151	92780
+23	 Natal	 Rio Grande do Norte	85337	5144	90481
+24	 Aparecida de Goiânia	 Goiás	74386	15630	90016
+25	 Feira de Santana	Bahia Bahia	70742	18032	88774
+26	 Guarulhos	 São Paulo	79288	9070	88358
+27	 Montes Claros	 Minas Gerais	71471	12668	84139
+28	 Sorocaba	 São Paulo	73770	9222	82992
+29	 Londrina	 Paraná	66642	15417	82059
+30	 São Bernardo do Campo	 São Paulo	66978	10387	77365
+31	 Boa Vista	 Roraima	60242	16022	76264
+32	 Santos	 São Paulo	48719	23485	72204
+33	 Santo André	 São Paulo	62158	9258	71416
+34	 Imperatriz	 Maranhão	51118	19317	70435
+35	 Rio Branco	 Acre	60255	9702	69957
+36	 Joinville	 Santa Catarina	55407	13515	68922
+37	 Osasco	 São Paulo	58547	9427	67974
+38	 Anápolis	 Goiás	50086	17719	67805
+39	 Rondonópolis	 Mato Grosso	47508	18636	66144
+40	 Maceió	 Alagoas	61524	3978	65502
+41	 Aracaju	 Sergipe	56190	9163	65353
+42	 Maringá	 Paraná	46491	17912	64403
+43	Bandeira caruaru.jpg Caruaru	 Pernambuco	51103	12707	63810
+44	 Franca	 São Paulo	55972	7308	63280
+45	 Mossoró	 Rio Grande do Norte	46153	14407	60560
+46	 Palmas	 Tocantins	43615	16253	59868
+47	 São José dos Campos	 São Paulo	53413	5351	58764
+48	 Juazeiro do Norte	 Ceará	49155	8758	57913
+49	 Campina Grande	 Paraíba	48988	8392	57380
+50	 Piracicaba	 São Paulo	50836	5939	56775
+51	 Araçatuba	 São Paulo	42869	12899	55768
+52	 Petrolina	 Pernambuco	49659	5935	55594
+53	 Marabá	Pará Pará	41799	12973	54772
+54	 Bauru	 São Paulo	46067	8326	54393
+55	 Florianópolis	 Santa Catarina	45197	8773	53970
+56	 Uberaba	 Minas Gerais	44581	9186	53767
+57	 Guarujá	 São Paulo	36346	16464	52810
+58	 Taubaté	 São Paulo	46885	5258	52143
+59	 Sobral	 Ceará	40785	11248	52033
+60	 Várzea Grande	 Mato Grosso	40375	11460	51835
+61	 Macapá	 Amapá	43397	7909	51306
+62	 Jaboatão dos Guararapes	 Pernambuco	49768	1420	51188
+63	 Araguaína	 Tocantins	31331	19589	50920
+64	 São Vicente	 São Paulo	37745	13095	50840
+65	 Contagem	 Minas Gerais	47571	3161	50732
+66	 Parnaíba	 Piauí	38590	10885	49475
+67	 Pelotas	 Rio Grande do Sul	43597	5547	49144
+68	 Rio Claro	 São Paulo	36785	12227	49012
+69	 Jundiaí	 São Paulo	42646	6174	48820
+70	 Blumenau	 Santa Catarina	38960	9155	48115
+71	 Governador Valadares	 Minas Gerais	40241	7829	48070
+72	 Arapiraca	 Alagoas	35009	12809	47818
+73	Campos dos Goytacazes Campos dos Goytacazes	 Rio de Janeiro	34981	11301	46282
+74	 Dourados	 Mato Grosso do Sul	31555	14545	46100
+75	 São Gonçalo	 Rio de Janeiro	40816	4535	45351
+76	 Diadema	 São Paulo	38765	5698	44463
+77	 Ji-Paraná	 Rondônia	33811	10263	44074
+78	 Itajaí	 Santa Catarina	27618	16198	43816
+79	 Limeira	 São Paulo	36576	6205	42781
+80	 Sinop	 Mato Grosso	27828	14786	42614
+81	 Rio Verde	 Goiás	29791	12795	42586
+82	 Indaiatuba	 São Paulo	34018	8429	42447
+83	 Santarém	Pará Pará	38234	4167	42401
+84	 Vila Velha	 Espírito Santo	33524	7454	40978
+85	 Cascavel	 Paraná	32044	8828	40872
+86	 Marília	 São Paulo	32208	8350	40558
+87	 Vitória da Conquista	Bahia Bahia	33980	5916	39896
+88	 Duque de Caxias	 Rio de Janeiro	34465	5246	39711
+89	 Ananindeua	Pará Pará	35399	4114	39513
+90	 Parauapebas	Pará Pará	26749	12740	39489
+91	 Presidente Prudente	 São Paulo	32259	6899	39158
+92	 Araraquara	 São Paulo	34503	4486	38989
+93	 Juazeiro	Bahia Bahia	35303	3429	38732
+94	 Praia Grande	 São Paulo	29156	9284	38440
+95	 Nova Iguaçu	 Rio de Janeiro	33137	5126	38263
+96	 Ariquemes	 Rondônia	25067	12662	37729
+97	 Olinda	 Pernambuco	35724	974	36698
+98	 Altamira	Pará Pará	29089	7503	36592
+99	 Caxias do Sul	 Rio Grande do Sul	30888	5672	36560
+100	 Ipatinga	 Minas Gerais	34166	2144	36310
+101	 Caxias	 Maranhão	30074	5908	35982
+102	 Cariacica	 Espírito Santo	31205	4773	35978
+103	 Juiz de Fora	 Minas Gerais	31983	3906	35889
+104	 Mauá	 São Paulo	32305	3471	35776
+105	 Carapicuíba	 São Paulo	31954	3821	35775
+106	Chapecó Chapecó	 Santa Catarina	24328	10944	35272
+107	 São José	 Santa Catarina	28667	6530	35197
+108	 Foz do Iguaçu	 Paraná	30750	4129	34879
+109	 Castanhal	Pará Pará	27182	7660	34842
+110	 Niterói	 Rio de Janeiro	29623	5013	34636
+111	 Redenção	Pará Pará	26538	8002	34540
+112	 Birigui	 São Paulo	23811	10619	34430
+113	 Cacoal	 Rondônia	23902	9720	33622
+114	Bandeira de Rio Grande (Rio Grande do Sul) Rio Grande	 Rio Grande do Sul	27636	5599	33235
+115	Predefinição:BR-SP-Santa Barbara d'Oeste	 São Paulo	26609	6453	33062
+116	 São Carlos	 São Paulo	28738	3988	32726
+117	 Divinópolis	 Minas Gerais	27941	4470	32411
+118	 Serra	 Espírito Santo	27759	4489	32248
+119	 Patos de Minas	 Minas Gerais	25114	7033	32147
+120	 Caucaia	 Ceará	31441	557	31998
+121	 Americana	 São Paulo	26005	5974	31979
+122	 Bragança Paulista	 São Paulo	26304	5079	31383
+123	Picos	 Piauí	25339	5522	30861
+124	 Novo Hamburgo	 Rio Grande do Sul	25147	5696	30843
+125	 Mogi das Cruzes	 São Paulo	26618	4193	30811
+126	 Betim	 Minas Gerais	28209	1734	29943
+127	Balsas	 Maranhão	22331	7455	29786
+128	 Sete Lagoas	 Minas Gerais	26146	3593	29739
+129	 Cachoeiro de Itapemirim	 Espírito Santo	23076	6626	29702
+130	 Catanduva	 São Paulo	25470	4157	29627
+131	 Santa Maria	 Rio Grande do Sul	24671	4855	29526
+132	Img bandeira municipio mogi guacu sp.jpg Mogi Guaçu	 São Paulo	24308	5111	29419
+133	 Timon	 Maranhão	25492	3888	29380
+134	 Canoas	 Rio Grande do Sul	25735	3536	29271
+135	 Jequié	Bahia Bahia	23453	5722	29175
+136	 Criciúma	 Santa Catarina	24298	4751	29049
+137	 Barreiras	Bahia Bahia	22870	6051	28921
+138	 Iguatu	 Ceará	23896	5003	28899
+139	 Barretos	 São Paulo	22513	5576	28089
+140	 Ponta Grossa	 Paraná	24388	3027	27415
+141	 Três Lagoas	 Mato Grosso do Sul	20212	7130	27342
+142	 Sumaré	 São Paulo	24182	3131	27313
+143	Votuporanga	 São Paulo	19715	7545	27260
+144	 Santa Cruz do Capibaribe	 Pernambuco	19826	6786	26612
+145	 Araras	 São Paulo	19697	6908	26605
+146	 São José dos Pinhais	 Paraná	22183	3768	25951
+147	 Gurupi	 Tocantins	15878	10041	25919
+148	 Itapetininga	 São Paulo	19989	5764	25753
+149	Tubarão	 Santa Catarina	17280	8347	25627
+150	 Tangará da Serra	 Mato Grosso	17486	8135	25621
+151	 Palhoça	 Santa Catarina	19896	5687	25583
+152	 Jaú	 São Paulo	19422	5803	25225
+153	 Bacabal	 Maranhão	19628	5483	25111
+154	Caldas Novas	 Goiás	16426	8682	25108
+155	 Teixeira de Freitas	Bahia Bahia	19427	5669	25096
+156	 Tatuí	 São Paulo	19642	5415	25057
+157	 Petrópolis	 Rio de Janeiro	22185	2842	25027
+158	Jaraguá do Sul	 Santa Catarina	18123	6717	24840
+159	 Barueri	 São Paulo	21728	3106	24834
+160	Vitória	 Espírito Santo	21140	3625	24765
+161	Codó	 Maranhão	20715	4029	24744
+162	Patos	 Paraíba	18668	6020	24688
+163	Brusque	 Santa Catarina	17460	7227	24687
+164	 Ituiutaba	 Minas Gerais	16439	8096	24535
+165	 Itu	 São Paulo	21673	2834	24507
+166	 Crato	 Ceará	20897	3083	23980
+167	 Parnamirim	 Rio Grande do Norte	22405	1559	23964
+168	 Macaé	 Rio de Janeiro	19877	4036	23913
+169	 Taboão da Serra	 São Paulo	20721	3126	23847
+170	Toledo	 Paraná	16299	7547	23846
+171	 Paulista	 Pernambuco	23069	771	23840
+172	 Itabuna	Bahia Bahia	19787	3950	23737
+173	 Sertãozinho	 São Paulo	18247	5406	23653
+174	Flag of None.svg
+Maracanaú || Ceará||	23071||	437||	23508
+
+175	 Araguari	 Minas Gerais	18744	4720	23464
+176	 Camaçari	Bahia Bahia	19929	3532	23461
+177	 Ribeirão das Neves	 Minas Gerais	22576	796	23372
+178	Jataí	 Goiás	15200	8093	23293
+179	 Gravataí	 Rio Grande do Sul	19682	3523	23205
+180	 Atibaia	 São Paulo	20526	2637	23163
+181	Itumbiara	 Goiás	15176	7751	22927
+182	 Itaituba	Pará Pará	18233	4681	22914
+183	 Cáceres	 Mato Grosso	16981	5807	22788
+184	Russas	 Ceará	18539	4212	22751
+185	 Itabaiana	 Sergipe	17530	5162	22692
+186	 Rolim de Moura	 Rondônia	16237	6377	22614
+187	Balneário Camboriú	 Santa Catarina	14581	7999	22580
+188	 Linhares	 Espírito Santo	15845	6672	22517
+189	 Jaru	 Rondônia	16340	6078	22418
+190	 Itapipoca	 Ceará	19395	2844	22239
+191	Arapongas	 Paraná	14413	7779	22192
+192	 Alta floresta	 Mato Grosso	15353	6763	22116
+193	 Vilhena	 Rondônia	14610	7406	22016
+194	Embu	 São Paulo	19428	2373	21801
+195	 Vitória de Santo Antão	 Pernambuco	17521	4260	21781
+196	Catalão	 Goiás	15713	6060	21773
+197	 Colombo	 Paraná	18774	2986	21760
+198	 Floriano	 Piauí	18151	3521	21672
+199	 Jacareí	 São Paulo	19718	1926	21644
+200	 Assis	 São Paulo	17855	3686	21541
+201	 Abaetetuba	Pará Pará	15483	6013	21496
+202	Açailândia	 Maranhão	16229	5225	21454
+203	Umuarama	 Paraná	14668	6703	21371
+204	 Ubá	 Minas Gerais	19084	2157	21241
+205	Pará de Minas	 Minas Gerais	16589	4546	21135
+206	 Nova Friburgo	 Rio de Janeiro	18734	2330	21064
+207	 Sorriso (Mato Grosso)	 Mato Grosso	13553	7490	21043
+208	 Lagarto	 Sergipe	16267	4762	21029
+209	 Passos	 Minas Gerais	19545	1395	20940
+210	Guanambi	Bahia Bahia	18326	2608	20934
+211	 São Leopoldo	 Rio Grande do Sul	17140	3676	20816
+212	 Passo Fundo	 Rio Grande do Sul	17081	3705	20786
+213	 Ourinhos	 São Paulo	15874	4838	20712
+214	Camboriú	 Santa Catarina	13017	7368	20385
+215	 Teófilo Otoni	 Minas Gerais	18525	1812	20337
+216	 Araripina	 Pernambuco	17767	2531	20298
+217	Barra do Corda	 Maranhão	17262	2895	20157
+218	Santa Cruz do Sul	 Rio Grande do Sul	15250	4892	20142
+219	 Barra do Garças	 Mato Grosso	14076	5892	19968
+220	 Santa Luzia	 Minas Gerais	18884	1008	19892
+221	Paulo Afonso	Bahia Bahia	16117	3758	19875
+222	 Crateús	 Ceará	16215	3612	19827
+223	 Cotia	 São Paulo	17241	2440	19681
+224	 Cabo Frio	 Rio de Janeiro	15704	3789	19493
+225	Paranavaí	 Paraná	13286	6127	19413
+226	Trindade	 Goiás	15398	3934	19332
+227	 Teresópolis	 Rio de Janeiro	16806	2381	19187
+228	 Belford Roxo	 Rio de Janeiro	17116	2004	19120
+229	 Alagoinhas	Bahia Bahia	14410	4683	19093
+230	Eunápolis	Bahia Bahia	14791	4159	18950
+231	Piripiri	 Piauí	14190	4793	18983
+232	 Pindamonhangaba	 São Paulo	17238	1586	18824
+233	Leme	 São Paulo	14644	4157	18801
+234	 Viamão	 Rio Grande do Sul	17587	1187	18774
+235	 Itapevi	 São Paulo	16900	1868	18768
+236	 Paragominas	Pará Pará	14374	4148	18522
+237	 São João de Meriti	 Rio de Janeiro	16623	1798	18421
+238	 Itaquaquecetuba	 São Paulo	16950	1388	18338
+239	 Porto Seguro	Bahia Bahia	14997	3263	18260
+240	 Quixadá	 Ceará	14922	3333	18255
+241	 Paranaguá	 Paraná	15228	2948	18176
+242	 Primavera do Leste	 Mato Grosso	11548	6620	18168
+243	Sarandi	 Paraná	13190	4833	18023
+244	Cianorte	 Paraná	11422	6504	17926
+245	 Serra Talhada	 Pernambuco	15975	1849	17824
+246	Limoeiro do Norte	 Ceará	12793	5009	17802
+247	 Cruzeiro do Sul	 Acre	12710	5007	17717
+248	Santo Antônio de Jesus	Bahia Bahia	15228	2397	17625
+249	Bebedouro	 São Paulo	11931	5666	17597
+250	Santa Inês	 Maranhão	14144	3399	17543
+251	 Colatina	 Espírito Santo	13545	3911	17456
+252	Bandeira de Mogi Mirim.jpg Mogi Mirim	 São Paulo	14810	2618	17428
+253	 Botucatu	 São Paulo	14773	2582	17355
+254	 Volta Redonda	 Rio de Janeiro	15166	2155	17321
+255	Apucarana	 Paraná	13794	3486	17280
+256	Janaúba	 Minas Gerais	14100	3121	17221
+257	 Guarapari	 Espírito Santo	12608	4556	17164
+258	 Hortolândia	 São Paulo	15456	1614	17070
+259	 Varginha	 Minas Gerais	15115	1925	17040
+260	Xinguara	Pará Pará	13005	4033	17038
+261	Campo Maior	 Piauí	13085	3858	16943
+262	 Tucuruí	Pará Pará	13089	3844	16933
+263	Tianguá	 Ceará	12892	4033	16925
+264	São João da Boa Vista	 São Paulo	12984	3921	16905
+265	Sousa	 Paraíba	13131	3764	16895
+266	 Caraguatatuba	 São Paulo	14541	2232	16773
+267	 Tucumã	Pará Pará	14113	2585	16698
+268	 Itacoatiara	 Amazonas	9775	6892	16667
+269	Fernandópolis	 São Paulo	11885	4610	16495
+270	 Conselheiro Lafaiete	 Minas Gerais	15425	1021	16446
+271	Formosa	 Goiás	11696	4712	16408
+272	 Lages	 Santa Catarina	13327	3063	16390
+273	 Caicó	 Rio Grande do Norte	12333	4022	16355
+274	 Garanhuns	 Pernambuco	14059	2229	16288
+275	 Poços de Caldas	 Minas Gerais	14490	1749	16239
+276	 Pouso Alegre	 Minas Gerais	13868	2317	16185
+277	Senador Canedo	 Goiás	13580	2563	16143
+278	Nova Serrana	 Minas Gerais	14001	2039	16040
+279	 São Mateus	 Espírito Santo	12067	3952	16019
+280	Penápolis	 São Paulo	11465	4551	16016
+281	 Muriaé	 Minas Gerais	14828	1153	15981
+282	 Suzano	 São Paulo	14162	1714	15876
+283	 Itaperuna	 Rio de Janeiro	13285	2567	15852
+284	 Ouro Preto do Oeste	 Rondônia	12219	3573	15792
+285	 Juína	 Mato Grosso	11397	4340	15737
+286	 Luziânia	 Goiás	12136	3516	15652
+287	Itapira	 São Paulo	13684	1952	15636
+288	Brumado	Bahia Bahia	14341	1290	15631
+289	Bandeira viçosa.jpg Viçosa	 Minas Gerais	14744	873	15617
+290	 Alvorada	 Rio Grande do Sul	14306	1297	15603
+291	Canindé	 Ceará	14293	1301	15594
+292	Cajazeiras	 Paraíba	12498	3040	15538
+293	Tupã	 São Paulo	12248	3284	15532
+294	Quixeramobim	 Ceará	13701	1787	15488
+295	Navegantes	 Santa Catarina	9905	5508	15413
+296	 Timbaúba	 Pernambuco	13257	2146	15403
+297	Matão	 São Paulo	12800	2572	15372
+298	Icó	 Ceará	13076	2237	15313
+299	São João del-Rei	 Minas Gerais	13554	1692	15246
+300	Pinheiro	 Maranhão	11973	3222	15195
+301	Bandeira de LRV.PNG Lucas do Rio Verde	 Mato Grosso	9631	5270	14901
+302	Bagé	 Rio Grande do Sul	13175	1659	14834
+303	Tauá	 Ceará	13195	1623	14818
+304	Lins	 São Paulo	11262	3541	14803
+305	Lavras	 Minas Gerais	13244	1533	14777
+306	 Guaratinguetá	 São Paulo	13814	956	14770
+307	Cambé	 Paraná	11225	3513	14738
+308	Campo Mourão	 Paraná	10980	3656	14636
+309	 Magé	 Rio de Janeiro	12270	2336	14606
+310	Mineiros	 Goiás	9880	4682	14562
+311	Sapucaia do Sul	 Rio Grande do Sul	12323	2173	14496
+312	Itapeva	 São Paulo	12142	2298	14440
+313	Uruguaiana	 Rio Grande do Sul	12658	1755	14413
+314	 Parintins	 Amazonas	8423	5962	14385
+315	Ficheiro:Https://pt.wikipedia.org/wiki/Ficheiro:Flag of Pontes e Lacerda.jpg	 Mato Grosso	10203	4170	14373
+316	 Votorantim	 São Paulo	12706	1645	14351
+317	 Gravatá	 Pernambuco	11637	2601	14238
+318	Chapadinha	 Maranhão	11302	2890	14192
+319	Tailândia	Pará Pará	11797	2384	14181
+320	Unaí	 Minas Gerais	10721	3425	14146
+321	Amparo	 São Paulo	12092	2021	14113
+322	Araranguá	 Santa Catarina	9796	4276	14072
+323	 Angra dos Reis	 Rio de Janeiro	11057	2891	13948
+324	 Várzea Paulista	 São Paulo	11982	1962	13944
+325	Santana do Livramento	 Rio Grande do Sul	12362	1569	13931
+326	Avaré	 São Paulo	10828	3053	13881
+327	Jales	 São Paulo	10220	3643	13863
+328	Concórdia	 Santa Catarina	9855	3999	13854
+329	 Nossa Senhora do Socorro	 Sergipe	12337	1512	13849
+330	 Itapecerica da Serra	 São Paulo	12471	1325	13796
+331	 São Caetano do Sul	 São Paulo	11204	2559	13763
+332	Paraíso do Tocantins	 Tocantins	9149	4591	13740
+333	Morada Nova	 Ceará	11434	2272	13706
+334	 Luís Eduardo Magalhães	Bahia Bahia	10039	3636	13675
+335	Januária	 Minas Gerais	12106	1519	13625
+336	Jaboticabal	 São Paulo	10543	3036	13579
+337	 Salto	 São Paulo	12224	1344	13568
+338	 Itaboraí	 Rio de Janeiro	12019	1496	13515
+339	Pinhais	 Paraná	11396	2092	13488
+340	Serrinha	Bahia Bahia	11741	1731	13472
+341	Monte Alto	 São Paulo	10331	3074	13405
+342	 Ouricuri	 Pernambuco	12822	552	13374
+343	 Capanema	Pará Pará	9879	3471	13350
+344	Curvelo	 Minas Gerais	11120	2229	13349
+ Guarapuava	 Paraná	11152	2197	13349
+346	 Erechim	 Rio Grande do Sul	9409	3919	13328
+347	Lajeado	 Rio Grande do Sul	9083	4238	13321
+348	Ubatuba	 São Paulo	11763	1551	13314
+349	 Porto Nacional	 Tocantins	8641	4638	13279
+350	Venâncio Aires	 Rio Grande do Sul	10821	2447	13268
+351	 Itatiba	 São Paulo	11286	1906	13192
+352	 Ibirité	 Minas Gerais	12603	529	13132
+353	Porangatu	 Goiás	8799	4313	13112
+354	 São José de Ribamar	 Maranhão	11952	1125	13077
+355	Pirassununga	 São Paulo	11453 1579 13032
+356	Andradina	 São Paulo	3808	13003
+357	Santa Rita	 Paraíba	12314	526	12840
+358	Cruz das Almas	Bahia Bahia	11096	1726	12822
+359	 Cabo de Santo Agostinho	 Pernambuco	12250	542	12792
+360	 Valinhos	 São Paulo	11690	1100	12790
+361	Itaúna	 Minas Gerais	11658	1116	12774
+362	Boa Viagem	 Ceará	11911	801	12712
+363	 Barbacena	 Minas Gerais	12084	555	12639
+364	Francisco Beltrão	 Paraná	8419	4172	12591
+Pedreiras	 Maranhão	9935	2656	12591
+366	Bom Jesus da Lapa	Bahia Bahia	11610	968	12578
+367	 Itabira	 Minas Gerais	11538	1020	12558
+368	Caratinga	 Minas Gerais	11117	1401	12518
+369	 Araxá	 Minas Gerais	10621	1860	12481
+370	Cataguases	 Minas Gerais	10746	1699	12445
+371	Campo Largo	 Paraná	10875	1569	12444
+372	 Bento Gonçalves	 Rio Grande do Sul	8391	3983	12374
+373	Grajaú	 Maranhão	10602	1719	12321
+374	 Lauro de Freitas	Bahia Bahia	11177	1110	12287
+375	 Buritis	 Rondônia	9794	2434	12228
+376	São Félix do Xingu	Pará Pará	10324	1903	12227
+377	Formiga	 Minas Gerais	10800	1377	12177
+378	 Camaragibe	 Pernambuco	11852	323	12175
+379	 Belo Jardim	 Pernambuco	10479	1688	12167
+380	Irecê	Bahia Bahia	10587	1500	12087
+381	 Salgueiro	 Pernambuco	10768	1310	12078
+382	 Cubatão	 São Paulo	9496	2575	12071
+383	Pedreira	 São Paulo	10188	1882	12070
+384	Frutal	 Minas Gerais	8420	3595	12015
+385	Jacobina	Bahia Bahia	10851	1125	11976
+386	Santa Maria de Jetibá	 Espírito Santo	9683	2290	11973
+387	 Coronel Fabriciano	 Minas Gerais	11452	515	11967
+388	Lago da Pedra	 Maranhão	10396	1516	11912
+389	Flag of None.svg Tocantinópolis	 Tocantins	8384	3491	11875
+390	 Corumbá	 Mato Grosso do Sul	10086	1775	11861
+391	Patrocinio	 Minas Gerais	9793	2048	11841
+392	 Araruama	 Rio de Janeiro	9833	1994	11827
+393	Goiana	 Pernambuco	10114	1668	11782
+394	Ijuí	 Rio Grande do Sul	9215	2542	11757
+395	Barcarena	Pará Pará	8698	2975	11673
+396	Biguaçu	 Santa Catarina	9030	2562	11592
+397	Sapiranga	 Rio Grande do Sul	9058	2533	11591
+398	Porto Ferreira	 São Paulo	10288	1285	11573
+399	Marechal Cândido Rondon	 Paraná	7154	4399	11553
+400	Araucária	 Paraná	9925	1583	11508
+401	Timóteo	 Minas Gerais	10729	761	11490
+402	Presidente Dutra	 Maranhão	8999	2456	11455
+403	 Pimenta Bueno	 Rondônia	7977	3467	11444
+404	 Paranaíba	 Mato Grosso do Sul	8300	3121	11421
+405	 Sabará	 Minas Gerais	10872	524	11396
+406	Canguçu	 Rio Grande do Sul	11019	372	11391
+407	Quirinópolis	 Goiás	7038	4334	11372
+408	São Bento do Sul	 Santa Catarina	8671	2673	11344
+409	Santa Rosa	 Rio Grande do Sul	8726	2616	11342
+410	 Carpina	 Pernambuco	10052	1273	11325
+411	 Juara	 Mato Grosso	8460	2759	11219
+412	 Bragança	Pará Pará	9045	2143	11188
+413	Tabuleiro do Norte	 Ceará	7797	3387	11184
+414	 Maricá	 Rio de Janeiro	9262	1911	11173
+415	Bandeira de Santana de Parnaíba.png Santana de Parnaíba	 São Paulo	9545	1521	11066
+416	Cachoeirinha	 Rio Grande do Sul	9616	1426	11042
+417	Içara	 Santa Catarina	8872	2165	11037
+418	Jacundá	Pará Pará	8723	2297	11020
+419	Itaberaba	Bahia Bahia	8697	2224	10921
+420	Lagoa da Prata	 Minas Gerais	7924	2922	10846
+421	 Novo Repartimento	Pará Pará	9506	1317	10823
+422	 Colíder	 Mato Grosso	6883	3931	10814
+423	 Ilhéus	Bahia Bahia	9725	1074	10799
+424	Inhumas	 Goiás	6325	4469	10794
+425	Valença	Bahia Bahia	8214	2578	10792
+426	Lorena	 São Paulo	9331	1434	10765
+427	Morrinhos	 Goiás	6547	4082	10629
+428	 Conceição do Araguaia	Pará Pará	8051	2520	10571
+429	Ibitinga	 São Paulo	9156	1407	10563
+430	Mirassol	 São Paulo	8893	1654	10547
+431	 Assu	 Rio Grande do Norte	8648	1869	10517
+432	Itajubá	 Minas Gerais	9632	862	10494
+433	Bezerros	 Pernambuco	8661	1828	10489
+434	Maranguape	 Ceará	10276	209	10485
+435	Guarantã do Norte	 Mato Grosso	7793	2657	10450
+436	 Espigão d'Oeste	 Rondônia	7874	2567	10441
+437	Indaial	 Santa Catarina	7909	2521	10430
+438	 Naviraí	 Mato Grosso do Sul	7194	3220	10414
+439	Buriticupu	 Maranhão	9232	1172	10404
+440	Palmeira dos Índios	 Alagoas	9005	1361	10366
+441	Mococa	 São Paulo	8187	2147	10334
+442	Surubim	 Pernambuco	9022	1291	10313
+443	 Rio das Ostras	 Rio de Janeiro	8328	1970	10298
+444	Nova Venécia	 Espírito Santo	8272	1991	10263
+445	Nanuque	 Minas Gerais	8896	1362	10258
+446	São Gabriel da Palha	 Espírito Santo	7087	3153	10240
+447	Itanhaém	 São Paulo	8911	1317	10228
+448	 Jandira	 São Paulo	9106	1119	10225
+449	Camocim	 Ceará	8240	1950	10190
+450	Palmares	 Pernambuco	8673	1504	10177
+451	Paracatu	 Minas Gerais	8128	2047	10175
+452	 Pau dos Ferros	 Rio Grande do Norte	7978	2195	10173
+453	Camaquã	 Rio Grande do Sul	8569	1582	10151
+454	Gaspar	 Santa Catarina	7811	2317	10128
+455	Caçapava	 São Paulo	9000	1100	10100
+456	 Aracruz	 Espírito Santo	7236	2820	10056
+457	Porteirinha	 Minas Gerais	9286	759	10045
+Viçosa do Ceará	 Ceará	8126	1919	10045
+459	Aracati	 Ceará	8052	1990	10042
+460	Acopiara	 Ceará	9107	911	10018
+461	 Santo Ângelo	 Rio Grande do Sul	8032	1980	10012
+462	 Nova Andradina	 Mato Grosso do Sul	7103	2900	10003

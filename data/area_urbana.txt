@@ -1,0 +1,661 @@
+
+1	São Paulo	 São Paulo	Aumento 628 064 882	52 796,78
+2	Rio de Janeiro	 Rio de Janeiro	Aumento 299 849 795	46 461,82
+3	Brasília	 Distrito Federal	Aumento 197 432 059	69 216,80
+4	Belo Horizonte	 Minas Gerais	Aumento 87 656 760	35 187,85
+5	Curitiba	 Paraná	Baixa 78 892 229	42 314,71
+6	Manaus	 Amazonas	Aumento 67 572 523	33 446,76
+7	Porto Alegre	 Rio Grande do Sul	Aumento 63 990 644	43 457,67
+8	Osasco	 São Paulo	Aumento 58 566 199	84 478,07
+9	Campos dos Goytacazes Campos dos Goytacazes	 Rio de Janeiro	Baixa 58 011 293	120 693,92
+10	Campinas	 São Paulo	Aumento 57 673 309	49 950,16
+11	Fortaleza	 Ceará	Aumento 56 728 828	22 057,20
+12	Salvador	Bahia Bahia	Aumento 56 624 041	19 505,84
+13	Guarulhos	 São Paulo	Aumento 51 389 524	39 162,96
+14	Recife	 Pernambuco	Aumento 50 688 395	31 513,07
+15	São Bernardo do Campo	 São Paulo	Baixa 47 551 620	58 597,99
+16	Barueri	Aumento 46 151 952	177 811,84
+17	Goiânia	 Goiás	Aumento 46 094 735	32 636,58
+18	Jundiaí	 São Paulo	Baixa 36 339 235	91 312,64
+19	Sorocaba	Aumento 32 662 452	51 260,39
+20	São José dos Campos	Aumento 30 927 050	45 411,77
+21	 Belém	Pará Pará	28 706 165
+22	 Duque de Caxias	 Rio de Janeiro	28 675 676
+23	 Uberlândia	 Minas Gerais	28 342 162
+24	 Santo André	 São Paulo	28 119 591
+25	 Ribeirão Preto	 São Paulo	28 087 397
+26	 São Luís	 Maranhão	26 326 087
+27	 Contagem	 Minas Gerais	26 275 134
+28	 Joinville	 Santa Catarina	24 570 851
+29	 Niterói	 Rio de Janeiro	24 522 575
+30	 Campo Grande	 Mato Grosso do Sul	23 902 135
+31	Bandeira de Vitória.svgVitória	 Espírito Santo	23 370 919
+32	 São José dos Pinhais	 Paraná	23 220 247
+33	 Caxias do Sul	 Rio Grande do Sul	22 376 338
+34	 Piracicaba	 São Paulo	22 040 590
+35	 Betim	 Minas Gerais	22 024 036
+36	 Macaé	 Rio de Janeiro	21 051 064
+37	 Cuiabá	 Mato Grosso	20 525 597
+38	 Santos	 São Paulo	20 147 782
+39	 Natal	 Rio Grande do Norte	19 076 030
+40	 Maceió	 Alagoas	18 302 279
+41	 Teresina	 Piauí	17 762 266
+42	 Serra	 Espírito Santo	17 588 904
+43	 Camaçari	Bahia Bahia	17 562 845
+44	 João Pessoa	 Paraíba	17 462 539
+45	 Florianópolis	 Santa Catarina	17 328 527
+46	 Cabo Frio	 Rio de Janeiro	17 268 253
+47	 Itajaí	 Santa Catarina	17 128 932
+48	 Blumenau	 Santa Catarina	16 767 107
+49	 São Caetano do Sul	 São Paulo	16 153 419
+50	 Londrina	 Paraná	15 820 903
+51	 São José do Rio Preto	 São Paulo	15 802 010
+52	 Parauapebas	Pará Pará	15 568 461
+53	 São Gonçalo	 Rio de Janeiro	15 495 269
+54	 Taubaté	 São Paulo	15 436 985
+55	 Nova Iguaçu	 Rio de Janeiro	15 142 049
+56	 Aracaju	 Sergipe	14 893 787
+57	 Paulínia	 São Paulo	14 655 384
+58	 Rio das Ostras	 Rio de Janeiro	14 326 822
+59	 Maringá	 Paraná	14 233 028
+60	 Diadema	 São Paulo	13 910 517
+61	 Juiz de Fora	 Minas Gerais	13 279 245
+62	 Mogi das Cruzes	 São Paulo	13 367 335
+63	 Jaboatão dos Guararapes	 Pernambuco	13 217 350
+64	 Anápolis	 Goiás	12 714 454
+65	 Porto Velho	 Rondônia	12 609 918
+66	 Bauru	 São Paulo	12 137 134
+67	 Indaiatuba	 São Paulo	12 058 634
+68	 Sumaré	 São Paulo	11 969 866
+69	 Feira de Santana	Bahia Bahia	11 733 553
+70	 Aparecida de Goiânia	 Goiás	11 664 369
+71	 Uberaba	 Minas Gerais	11 605 821
+72	 Ponta Grossa	 Paraná	11 598 200
+73	 Petrópolis	 Rio de Janeiro	11 366 103
+74	 Mauá	 São Paulo	11 329 503
+75	 Limeira	 São Paulo	11 261 334
+76	 Vila Velha	 Espírito Santo	10 937 646
+77	 Gravataí	 Rio Grande do Sul	10 863 524
+78	 Americana	 São Paulo	10 727 869
+79	 Volta Redonda	 Rio de Janeiro	10 536 093
+80	 Hortolândia	 São Paulo	10 171 817
+81	 Suzano	 São Paulo	10 130 268
+82	 Cotia	 São Paulo	10 118 348
+83	 Canoas	 Rio Grande do Sul	9 995 408
+84	Cajamar	 São Paulo	9 911 054
+85	 São Carlos	 São Paulo	9 796 013
+86	 Maricá	 Rio de Janeiro	9 752 910
+87	 Jacareí	 São Paulo	9 414 193
+88	 Cubatão	 São Paulo	9 304 123
+89	Louveira	 São Paulo	9 244 651
+90	 Cascavel	 Paraná	9 203 923
+91	 Ipatinga	 Minas Gerais	9 195 774
+92	 Nova Lima	 Minas Gerais	9 158 234
+93	Presidente Kennedy	 Espírito Santo	9 146 167
+94	 Macapá	 Amapá	8 901 882
+95	 Itapevi	 São Paulo	8 867 669
+96	São João da Barra	 Rio de Janeiro	8 867 226
+97	 Foz do Iguaçu	 Paraná	8 721 301
+98	Bandeira araucaria.jpg Araucária	 Paraná	8 558 227
+99	 Cariacica	 Espírito Santo	8 517 305
+100	 Cabo de Santo Agostinho	 Pernambuco	8 462 097
+101	 Rio Claro	 São Paulo	8.455.120
+102	 Rio Branco	 Acre	8.192.366
+103	 Angra dos Reis	 Rio de Janeiro	8.116.489
+104	 Franca	 São Paulo	8.069.332
+105	Bandeira de Santana de Parnaíba.png Santana de Parnaíba	 São Paulo	8.065.197
+106	 São José	 Santa Catarina	7.984.979
+107	Bandeira Santa Cruz do Sul.png Santa Cruz do Sul	 Rio Grande do Sul	7.984.043
+108	 Itaguaí	 Rio de Janeiro	7.977.203
+109	 Araraquara	 São Paulo	7.975.227
+110	 Sete Lagoas	 Minas Gerais	7.974.429
+111	 Montes Claros	 Minas Gerais	7.844.307
+112	 Novo Hamburgo	 Rio Grande do Sul	7.805.986
+113	 Resende	 Rio de Janeiro	7.756.066
+114	Chapecó Chapecó	 Santa Catarina	7.713.607
+115	 Rondonópolis	 Mato Grosso	7.643.566
+116	 Itu	 São Paulo	7.551.445
+117	 Campina Grande	 Paraíba	7.541.055
+118	 Guarujá	 São Paulo	7.456.001
+119	 Embu das Artes	 São Paulo	7.412.777
+120	 Passo Fundo	 Rio Grande do Sul	7.382.564
+121	 Rio Verde	 Goiás	7.377.267
+122	Bandeira de Rio Grande (Rio Grande do Sul) Rio Grande	 Rio Grande do Sul	7.357.681
+123	 Boa Vista	 Roraima	7.339.681
+124	 Taboão da Serra	 São Paulo	7.326.979
+125	Vinhedo	 São Paulo	7.306.490
+126	Itapemirim	 Espírito Santo	7.275.310
+127	 São João de Meriti	 Rio de Janeiro	7.246.169
+128	 Ipojuca	 Pernambuco	7.245.824
+129	 Três Lagoas	 Mato Grosso do Sul	7.204.774
+130	 Marília	 São Paulo	7.041.950
+131	 Jaraguá do Sul	 Santa Catarina	6.996.440
+132	 Dourados	 Mato Grosso do Sul	6.958.573
+133	 Presidente Prudente	 São Paulo	6.878.962
+134	 Jaguariúna	 São Paulo	6.821.447
+135	Ilhabela	 São Paulo	6.772.117
+136	 São Leopoldo	 Rio Grande do Sul	6.745.959
+137	Flag of None.svg
+Maracanaú || Ceará|| 6.742.786
+
+138	 Pelotas	 Rio Grande do Sul	6.657.759
+139	 Araçatuba	 São Paulo	6.622.808
+140	Palmas	 Tocantins	6.544.297
+141	 Poços de Caldas	 Minas Gerais	6.492.840
+142	 Criciúma	 Santa Catarina	6.480.936
+143	 Santa Maria	 Rio Grande do Sul	6.475.629
+144	 Marabá	Pará Pará	6.318.506
+145	 Paranaguá	 Paraná	6.306.433
+146	Bandeira caruaru.jpg Caruaru	 Pernambuco	6.239.417
+147	 Belford Roxo	 Rio de Janeiro	6.234.366
+148	 Pindamonhangaba	 São Paulo	6.227.820
+149	 Mossoró	 Rio Grande do Norte	6.221.099
+150	Bandeira de Cachoeirinha.jpg Cachoeirinha	 Rio Grande do Sul	6.167.753
+151	 Pouso Alegre	 Minas Gerais	5.930.552
+152	 Lauro de Freitas	Bahia Bahia	5.915.319
+153	 Várzea Grande	 Mato Grosso	5.907.741
+154	Ouro Preto	 Minas Gerais	5.830.894
+155	 Imperatriz	 Maranhão	5.805.306
+156	 Ananindeua	Pará Pará	5.777.643
+157	 Itaquaquecetuba	 São Paulo	5.742.348
+158	Bandeira de Catalão.JPG Catalão	 Goiás	5.714.646
+159	 Salto	 São Paulo	5.695.364
+160	 Itabira	 Minas Gerais	5.655.772
+161	 Caucaia	 Ceará	5.513.528
+162	 Praia Grande	 São Paulo	5.512.844
+163	 Atibaia	 São Paulo	5.420.788
+164	 Barra Mansa	 Rio de Janeiro	5.400.831
+165	 Brusque	 Santa Catarina	5.394.835
+166	 Vitória da Conquista	Bahia Bahia	5.389.877
+167	 Valinhos	 São Paulo	5.338.650
+168	 Divinópolis	 Minas Gerais	5.335.938
+169	 Olinda	 Pernambuco	5.327.121
+170	 Bento Gonçalves	 Rio Grande do Sul	5.326.218
+171	 Linhares	 Espírito Santo	5.294.467
+172	São Sebastião	 São Paulo	5.254.869
+173	 Palhoça	 Santa Catarina	5.246.293
+174	 Petrolina	 Pernambuco	5.230.472
+175	 Santa Bárbara do Oeste	 São Paulo	5.202.729
+176	Bandeira de Pinhais.jpg Pinhais	 Paraná	5.157.399
+177	 Itatiba	 São Paulo	5.147.533
+178	Guaíba	 Rio Grande do Sul	5.129.396
+179	Triunfo	 Rio Grande do Sul	5.103.874
+180	 Governador Valadares	 Minas Gerais	5.072.185
+181	 Itaboraí	 Rio de Janeiro	5.049.300
+182	Img bandeira municipio mogi guacu sp.jpg Mogi Guaçu	 São Paulo	5.048.999
+183	 Aracruz	 Espírito Santo	5.020.397
+184	Mariana	 Minas Gerais	5.010.520
+185	 São Vicente	 São Paulo	4.940.871
+186	 Cachoeiro de Itapemirim	 Espírito Santo	4.929.324
+187	 Teresópolis	 Rio de Janeiro	4.867.922
+188	 Bragança Paulista	 São Paulo	4.840.392
+189	 Araxá	 Minas Gerais	4.765.087
+190	 Carapicuíba	 São Paulo	4.719.835
+191	 Votorantim	 São Paulo	4.708.770
+192	Extrema	 Minas Gerais	4.676.285
+193	Anchieta	 Espírito Santo	4.653.878
+194	 Varginha	 Minas Gerais	4.581.570
+195	 Quissamã	 Rio de Janeiro	4.575.977
+196	 Guarapuava	 Paraná	4.537.686
+197	Bandeira Toledo PR.jpg Toledo	 Paraná	4.490.370
+198	 Guaratinguetá	 São Paulo	4.471.713
+199	Bandeira BalnearioCamboriu SantaCatarina Brasil.jpg Balneário Camboriú	 Santa Catarina	4.445.241
+200	 Sorriso (Mato Grosso)	 Mato Grosso	4.437.696
+201	 Araras	 São Paulo	4.431.291
+202	 Parnamirim	 Rio Grande do Norte	4.408.474
+203	Bandeira de Simões Filho.png Simões Filho	Bahia Bahia	4.403.676
+204	Marataízes	 Espírito Santo	4.394.522
+205	 Sertãozinho	 São Paulo	4.360.402
+206	 Colombo	 Paraná	4.359.160
+207	 Sinop	 Mato Grosso	4.287.335
+208	Bandeira do municipio de Arapongas.jpg Arapongas	 Paraná	4.263.876
+209	 Lages	 Santa Catarina	4.255.922
+210	 Botucatu	 São Paulo	4.186.986
+211	 Erechim	 Rio Grande do Sul	4.091.150
+212	 Paulista	 Pernambuco	4.083.576
+213	 Nova Friburgo	 Rio de Janeiro	4.078.881
+214	Bandeira de Mogi Mirim.jpg Mogi Mirim	 São Paulo	4.017.408
+215	 Jaú	 São Paulo	4.002.111
+216	Armação dos Búzios	 Rio de Janeiro	3.980.275
+217	 Altamira	Pará Pará	3.950.289
+218	 Queimados	 Rio de Janeiro	3.946.300
+219	 Poá	 São Paulo	3.940.620
+220	 Itapetininga	 São Paulo	3.935.738
+221	Bandeira barcarena.gif Barcarena	Pará Pará	3.890.723
+222	Flag of Itumbiara GO.png Itumbiara	 Goiás	3.854.405
+223	Caçapava	 São Paulo	3.846.022
+224	 Luís Eduardo Magalhães	Bahia Bahia	3.825.307
+225	Ilha Comprida	 São Paulo	3.818.605
+226	 Caieiras	 São Paulo	3.801.890
+227	 Sobral	 Ceará	3.793.940
+228	 Barretos	 São Paulo	3.790.875
+229	 Santarém	Pará Pará	3.789.328
+230	 Juazeiro do Norte	 Ceará	3.779.837
+231	Arujá	 São Paulo	3.759.210
+232	Bandeira Campo-Largo.png Campo Largo	 Paraná	3.757.564
+233	Itabirito	 Minas Gerais	3.743.156
+234	Navegantes	 Santa Catarina	3.682.249
+235	 Itabuna	Bahia Bahia	3.667.701
+236	Paraty	 Rio de Janeiro	3.667.570
+237	Casimiro de Abreu	 Rio de Janeiro	3.597.209
+238	Congonhas	 Minas Gerais	3.588.278
+239	 Jataí	 Goiás	3.578.571
+240	 Catanduva	 São Paulo	3.577.635
+241	Itupeva	 São Paulo	3.545.947
+242	 Patos de Minas	 Minas Gerais	3.518.377
+243	Amparo	 São Paulo	3.516.614
+244	 Ilhéus	Bahia Bahia	3.513.498
+245	 Arapiraca	 Alagoas	3.443.406
+246	 Três Rios	 Rio de Janeiro	3.438.170
+247	 Araguari	 Minas Gerais	3.423.404
+248	 Tatuí	 São Paulo	3.417.706
+249	Itatiaia	 Rio de Janeiro	3.364.337
+250	 Barreiras	Bahia Bahia	3.340.432
+251	São Francisco do Sul	 Santa Catarina	3.303.236
+252	Bandeira Cambe Parana Brasil.svg Cambé	 Paraná	3.303.188
+253	Bandeira.tubarão.jpg Tubarão	 Santa Catarina	3.294.933
+254	 Ribeirão das Neves	 Minas Gerais	3.293.815
+255	 Magé	 Rio de Janeiro	3.291.378
+256	Matão	 São Paulo	3.266.004
+257	 Santa Luzia	 Minas Gerais	3.245.049
+258	Lajeado	 Rio Grande do Sul	3.241.251
+259	 Lins	 São Paulo	3.238.808
+260	Dias d'Ávila	Bahia Bahia	3.122.830
+261	 Luziânia	 Goiás	3.116.626
+262	São Bento do Sul	 Santa Catarina	3.115.362
+263	Ouro Branco	 Minas Gerais	3.113.040
+264	Porto Real	 Rio de Janeiro	3.101.737
+265	 Corumbá	 Mato Grosso do Sul	3 101 210
+266	 Coari	 Amazonas	3.096.593
+267	 Viamão	 Rio Grande do Sul	3.090.790
+268	Candeias	Bahia Bahia	3.084.403
+269	 Araguaína	 Tocantins	3.053.585
+270	Mangaratiba	 Rio de Janeiro	3.013.795
+271	 Juazeiro	Bahia Bahia	3.013.288
+272	 Colatina	 Espírito Santo	3.001.424
+273	Itapira	 São Paulo	2.989.267
+274	Brumadinho	 Minas Gerais	2.958.776
+275	 Tucuruí	Pará Pará	2.953.335
+276	Monte Mor	 São Paulo	2.950.248
+277	 Primavera do Leste	 Mato Grosso	2.945.752
+278	 Itapecerica da Serra	 São Paulo	2.943.707
+279	 Jandira	 São Paulo	2.941.506
+280	Esteio	 Rio Grande do Sul	2.930.236
+281	 Sapucaia do Sul	 Rio Grande do Sul	2.923.906
+282	Bandeira apucarana.jpg Apucarana	 Paraná	2.919.146
+283	Balsas	 Maranhão	2.918.687
+284	 Vitória de Santo Antão	 Pernambuco	2.909.228
+285	 Caraguatatuba	 São Paulo	2.885.243
+286	Cabreúva	 São Paulo	2.875.873
+287	Paracatu	 Minas Gerais	2.859.549
+288	 Ourinhos	 São Paulo	2.847.364
+289	 São Francisco do Conde	Bahia Bahia	2.845.521
+290	Campo Mourão	 Paraná	2.836.804
+291	Venâncio Aires	 Rio Grande do Sul	2.810.741
+292	 Canaã dos Carajás	Pará Pará	2.810.059
+293	Pato Branco	 Paraná	2.793.999
+294	Montenegro	 Rio Grande do Sul	2.786.556
+295	Timóteo	 Minas Gerais	2.758.422
+296	 Alagoinhas	Bahia Bahia	2.757.430
+297	Bandeira de LRV.PNG Lucas do Rio Verde	 Mato Grosso	2.752.160
+298	 Ferraz de Vasconcelos	 São Paulo	2.747.746
+299	São Gonçalo do Rio Abaixo	 Minas Gerais	2.744.913
+300	Caçador	 Santa Catarina	2.734.147
+301	Farroupilha	 Rio Grande do Sul	2.724.987
+302	 Birigui	 São Paulo	2.721.174
+303	 Castanhal	Pará Pará	2.712.093
+304	Bandeira de Umuarama.jpg Umuarama	 Paraná	2.703.445
+305	Itajubá	 Minas Gerais	2.689.708
+306	 Ituiutaba	 Minas Gerais	2.688.552
+307	 Ji-Paraná	 Rondônia	2.684.653
+308	Cruz Alta	 Rio Grande do Sul	2.681.765
+309	 Assis	 São Paulo	2.637.083
+310	 Vespasiano	 Minas Gerais	2.636.756
+311	Telêmaco Borba	 Paraná	2.619.895
+312	São João da Boa Vista	 São Paulo	2.610.606
+313	 Ribeirão Pires	 São Paulo	2.606.481
+314	Boituva	 São Paulo	2.587.854
+315	Ijuí	 Rio Grande do Sul	2.575.669
+316	 Franco da Rocha	 São Paulo	2.563.525
+317	 Nossa Senhora do Socorro	 Sergipe	2.545.661
+318	Sapiranga	 Rio Grande do Sul	2.535.244
+319	Itaúna	 Minas Gerais	2.510.796
+320	São Desidério	Bahia Bahia	2.505.744
+321	 Leme	 São Paulo	2.505.532
+322	 Ubá	 Minas Gerais	2.504.300
+323	Nova Mutum	 Mato Grosso	2.502.258
+324	Eusébio	 Ceará	2.486.552
+325	Nova Odessa	 São Paulo	2.480.005
+326	Votuporanga	 São Paulo	2.462.573
+327	Francisco Beltrão	 Paraná	2.404.630
+328	Guaramirim	 Santa Catarina	2.397.188
+329	Bandeira de Senador Canedo.png Senador Canedo	 Goiás	2.392.500
+330	Gaspar	 Santa Catarina	2.392.250
+331	João Monlevade	 Minas Gerais	2.371.841
+332	 Nilópolis	 Rio de Janeiro	2.367.094
+333	Pará de Minas	 Minas Gerais	2.356.785
+334	 Várzea Paulista	 São Paulo	2.344.124
+335	Rio do Sul	 Santa Catarina	2.340.739
+336	Rolândia	 Paraná	2.338.127
+337	Bebedouro	 São Paulo	2.336.313
+338	Campo Bom	 Rio Grande do Sul	2.334.484
+339	Santa Rosa	 Rio Grande do Sul	2.328.987
+340	 Igarassu	 Pernambuco	2.327.886
+341	Jaboticabal	 São Paulo	2.324.572
+342	Uruguaiana-bandeira.jpg Uruguaiana	 Rio Grande do Sul	2.295.349
+343	Cabedelo	 Paraíba	2.294.113
+344	Indaial	 Santa Catarina	2.280.268
+345	 Barbacena	 Minas Gerais	2.279.405
+346	São Roque	 São Paulo	2.272.458
+347	 Tangará da Serra	 Mato Grosso	2.263.918
+348	Castro	 Paraná	2.249.718
+349	Ibiporã	 Paraná	2.245.779
+350	Cianorte	 Paraná	2.235.990
+351	Pirassununga	 São Paulo	2.231.867
+352	Bandeira Bage.png Bagé	 Rio Grande do Sul	2.230.936
+353	Goiana	 Pernambuco	2.223.372
+354	Unaí	 Minas Gerais	2.221.761
+355	Patrocínio	 Minas Gerais	2.202.507
+356	 Alvorada	 Rio Grande do Sul	2.187.975
+357	Pomerode	 Santa Catarina	2.169.446
+358	 Vilhena	 Rondônia	2.168.426
+359	Carazinho	 Rio Grande do Sul	2.165.350
+360	Concórdia	 Santa Catarina	2.162.770
+361	 Teófilo Otoni	 Minas Gerais	2.161.826
+362	Cruzeiro	 São Paulo	2.141.388
+363	Avaré	 São Paulo	2.135.621
+364	 Sabará	 Minas Gerais	2.132.399
+365	Andradina	 São Paulo	2.131.965
+366	Lençóis Paulista	 São Paulo	2.117.395
+367	Bandeira-lavras.jpg Lavras	 Minas Gerais	2.110.722
+368	 Passos	 Minas Gerais	2.104.434
+369	 Itaperuna	 Rio de Janeiro	2.099.862
+370	Agudos	 São Paulo	2.096.342
+371	 Ponta Porã	 Mato Grosso do Sul	2 091 132
+372	 Porto Seguro	Bahia Bahia	2.080.379
+373	Bandeira Santa Rita PB.jpg Santa Rita	 Paraíba	2.079.084
+374	Bandeira eunapolis.svg Eunápolis	Bahia Bahia	2.072.472
+375	 Jequié	Bahia Bahia	2.059.586
+376	 Araruama	 Rio de Janeiro	2.053.626
+377	Caldas Novas	 Goiás	2.049.751
+378	Cachoeira do Sul	 Rio Grande do Sul	2.042.377
+379	 Campo Novo do Parecis	 Mato Grosso	2.028.215
+380	 Mesquita	 Rio de Janeiro	2.016.308
+381	 Paragominas	Pará Pará	2.007.253
+382	Lorena	 São Paulo	2.001.683
+383	 Itapeva	 São Paulo	1.995.532
+384	 São Mateus	 Espírito Santo	1.992.503
+385	Paranavaí	 Paraná	1.986.181
+386	Horizontina	 Rio Grande do Sul	1.985.182
+387	 Valparaíso de Goiás	 Goiás	1.974.654
+388	 Ariquemes	 Rondônia	1.967.587
+389	Alfenas	 Minas Gerais	1.962.461
+390	 Teixeira de Freitas	Bahia Bahia	1.941.525
+391	Içara	 Santa Catarina	1.938.907
+392	 Saquarema	 Rio de Janeiro	1.917.298
+393	Mineiros	 Goiás	1.914.160
+394	Pederneiras	 São Paulo	1.908.599
+395	 Garanhuns	 Pernambuco	1.897.240
+396	 Guarapari	 Espírito Santo	1.894.702
+397	Seropédica	 Rio de Janeiro	1.894.661
+398	Panambi	 Rio Grande do Sul	1.882.254
+399	 Barra do Piraí	 Rio de Janeiro	1.881.826
+400	 Santo Ângelo	 Rio Grande do Sul	1.878.006
+401	 Santana	 Amapá	1.874.614
+402	Videira	 Santa Catarina	1.869.788
+403	Nova Serrana	 Minas Gerais	1.844.366
+404	Três Corações	 Minas Gerais	1.843.495
+405	 Ibirité	 Minas Gerais	1.843.089
+406	Bandeira-acailandia.png Açailândia	 Maranhão	1.841.292
+407	Itatiaiuçu	 Minas Gerais	1.840.594
+408	Guaxupé	 Minas Gerais	1.835.197
+409	São Simão	 Goiás	1.835.106
+410	Manhuaçu	 Minas Gerais	1.826.974
+411	Cristalina	 Goiás	1.822.694
+412	 Campo Verde	 Mato Grosso	1.820.754
+413	 Selvíria	 Mato Grosso do Sul	1 819 020
+414	 Maracaju	 Mato Grosso do Sul	1 817 921
+415	 Muriaé	 Minas Gerais	1.808.872
+416	 Conselheiro Lafaiete	 Minas Gerais	1.797.875
+417	Marechal Cândido Rondon	 Paraná	1.797.664
+418	Timbó	 Santa Catarina	1.792.599
+419	Barra Velha	 Santa Catarina	1.789.747
+420	São Pedro da Aldeia	 Rio de Janeiro	1.784.543
+421	Cairu	Bahia Bahia	1.783.025
+422	 Sapezal	 Mato Grosso	1.778.671
+423	 Estância	 Sergipe	1.772.616
+424	Bandeira de Santo Antônio de Jesus (Bahia).svg Santo Antônio de Jesus	Bahia Bahia	1.767.591
+425	Vacaria	 Rio Grande do Sul	1.738.391
+426	Carlos Barbosa	 Rio Grande do Sul	1.732.160
+427	 Diamantino	 Mato Grosso	1.727.676
+428	Bandeira Formosa.jpg Formosa	 Goiás	1.719.887
+429	 Cacoal	 Rondônia	1.695.900
+430	 Nova Andradina	 Mato Grosso do Sul	1 694 876
+431	Fazenda Rio Grande	 Paraná	1.689.770
+432	Fernandópolis	 São Paulo	1.686.206
+433	 Gurupi	 Tocantins	1.683.201
+434	Iguape	 São Paulo	1.681.115
+435	Cordeirópolis	 São Paulo	1.678.843
+436	Mococa	 São Paulo	1.675.195
+437	Alegrete	 Rio Grande do Sul	1.670.106
+438	Lagoa Santa	 Minas Gerais	1.667.406
+439	Porto Ferreira	 São Paulo	1.665.474
+440	 Parnaíba	 Piauí	1.663.949
+441	Ubatuba	 São Paulo	1.658.499
+442	Campos Novos	 Santa Catarina	1.652.377
+443	Marau	 Rio Grande do Sul	1.652.320
+444	Camaquã	 Rio Grande do Sul	1.651.976
+445	Tietê	 São Paulo	1.640.139
+446	Capivari	 São Paulo	1.639.873
+447	Garibaldi	 Rio Grande do Sul	1.639.854
+448	Conceição do Jacuípe	Bahia Bahia	1.636.050
+449	 São Gonçalo do Amarante	 Rio Grande do Norte	1.630.595
+450	São João del-Rei	 Minas Gerais	1.630.011
+451	Piraí	 Rio de Janeiro	1.627.421
+452	 Valença	 Rio de Janeiro	1.622.225
+453	 São José de Ribamar	 Maranhão	1.610.892
+454	 Trindade	 Goiás	1.605.550
+455	Pirapora	 Minas Gerais	1.604.565
+456	Promissão	 São Paulo	1.604.252
+457	Aquiraz	 Ceará	1.601.415
+458	Palotina	 Paraná	1.601.077
+459	Viana	 Espírito Santo	1.589.749
+460	Bandeira de Paulo Afonso.jpg Paulo Afonso	Bahia Bahia	1.589.342
+461	 Olímpia	 São Paulo	1.587.458
+462	Pedro Leopoldo	 Minas Gerais	1.585.874
+463	Santa Cruz do Rio Pardo	 São Paulo	1.571.373
+464	Cerquilho	 São Paulo	1.571.087
+465	Campo Limpo Paulista	 São Paulo	1.569.453
+466	Araquari	 Santa Catarina	1.557.838
+467	Santa Gertrudes	 São Paulo	1.556.584
+468	Jarinu	 São Paulo	1.556.427
+469	Guararema	 São Paulo	1.555.846
+470	Tupã	 São Paulo	1.554.497
+471	Guaíra	 São Paulo	1.546.206
+472	 Mirassol	 São Paulo	1.543.382
+473	Mairinque	 São Paulo	1.540.245
+474	Bertioga	 São Paulo	1.536.747
+475	 Orlândia	 São Paulo	1.536.247
+476	Iturama	 Minas Gerais	1.535.239
+477	Vargem Grande Paulista	 São Paulo	1.532.991
+478	Alumínio	 São Paulo	1.526.672
+479	Biguaçu	 Santa Catarina	1.521.844
+480	Monte Alto	 São Paulo	1.520.055
+481	São Gonçalo do Amarante	 Ceará	1.515.257
+482	Gramado	 Rio Grande do Sul	1.508.978
+483	 Itacoatiara	 Amazonas	1.508.254
+484	São Borja	 Rio Grande do Sul	1.504.713
+485	 Mairiporã	 São Paulo	1.500.945
+486	Dois Irmãos	 Rio Grande do Sul	1.495.884
+487	Araçariguama	 São Paulo	1.494.020
+488	 Coronel Fabriciano	 Minas Gerais	1.493.887
+489	Rio Bonito	 Rio de Janeiro	1.488.505
+490	São Sebastião do Paraíso	 Minas Gerais	1.480.939
+491	São José do Rio Pardo	 São Paulo	1.480.685
+492	 Crato	 Ceará	1.478.136
+493	Medianeira	 Paraná	1.476.468
+494	 Rio Brilhante	 Mato Grosso do Sul	1 475 596
+495	Registro	 São Paulo	1.473.754
+496	Araranguá	 Santa Catarina	1.469.994
+497	Sant'Ana do Livramento	 Rio Grande do Sul	1.458.989
+498	 Caxias	 Maranhão	1.458.634
+499	Igrejinha	 Rio Grande do Sul	1.457.191
+500	Batatais	 São Paulo	1.454.714
+501	Santa Isabel	 São Paulo	1.450.356
+502	 Timon	 Maranhão	1.440.381
+503	 Itaituba	Pará Pará	1.438.852
+504	Ibiúna	 São Paulo	1.438.503
+505	 Itanhaém	 São Paulo	1.434.501
+506	 Itabaiana	 Sergipe	1.432.659
+507	 Águas Lindas de Goiás	 Goiás	1.430.749
+508	Porto Feliz	 São Paulo	1.429.706
+509	 Iguatu	 Ceará	1.424.606
+510	Luís Antônio	 São Paulo	1.423.865
+511	 Cáceres	 Mato Grosso	1.421.643
+512	 Marituba	Pará Pará	1.421.180
+513	Peruíbe	 São Paulo	1.416.759
+514	Xanxerê	 Santa Catarina	1.411.889
+515	 Oriximiná	Pará Pará	1.410.765
+516	Irati	 Paraná	1.405.600
+517	Mafra	 Santa Catarina	1.403.622
+518	Frutal	 Minas Gerais	1.397.841
+519	Horizonte	 Ceará	1.397.774
+520	São Joaquim da Barra	 São Paulo	1.395.156
+521	 Chapadão do Sul	 Mato Grosso do Sul	1 392 009
+522	Canoinhas	 Santa Catarina	1.388.257
+523	 Barra do Garças	 Mato Grosso	1.385.108
+524	Salto de Pirapora	 São Paulo	1.383.574
+525	Formosa do Rio Preto	Bahia Bahia	1.367.832
+526	Itapema	 Santa Catarina	1.363.896
+527	Cataguases	 Minas Gerais	1.362.525
+528	Santa Rita do Sapucaí	 Minas Gerais	1.360.815
+529	Mucuri	Bahia Bahia	1.356.434
+530	 Macaíba	 Rio Grande do Norte	1.356.254
+531	Joaçaba	 Santa Catarina	1.354.042
+532	 Naviraí	 Mato Grosso do Sul	1 350 689
+533	 Tijucas	 Santa Catarina	1.344.043
+534	Penápolis	 São Paulo	1.334.821
+535	 Abreu e Lima	 Pernambuco	1.332.105
+536	Quirinópolis	 Goiás	1.331.785
+537	Bandeira patos.PNG Patos	 Paraíba	1.322.958
+538	 Camaragibe	 Pernambuco	1.322.942
+539	Caratinga	 Minas Gerais	1.322.811
+540	Dois Vizinhos	 Paraná	1.319.155
+541	 Redenção	Pará Pará	1.318.706
+542	Arcos	 Minas Gerais	1.314.757
+543	Lapa	 Paraná	1.311.358
+544	Viçosa	 Minas Gerais	1.309.742
+545	Bandeira taquaritinga.jpg Taquaritinga	 São Paulo	1.308.796
+546	 Manacapuru	 Amazonas	1.307.005
+547	Ponte Nova	 Minas Gerais	1.303.167
+548	Estância Velha	 Rio Grande do Sul	1.299.292
+549	Formiga	 Minas Gerais	1.287.236
+550	 Belo Jardim	 Pernambuco	1.286.102
+551	Bandeira CornelioProcopio Parana Brasil.svg Cornélio Procópio	 Paraná	1.285.957
+552	Monte Carmelo	 Minas Gerais	1.279.551
+553	São Gabriel	 Rio Grande do Sul	1.275.179
+554	Itapissuma	 Pernambuco	1.273.981
+555	Bandeira almirante tamandare.jpg Almirante Tamandaré	 Paraná	1.269.345
+556	 Francisco Morato	 São Paulo	1.268.410
+557	União da Vitória	 Paraná	1.266.176
+558	Lagoa da Prata	 Minas Gerais	1.264.631
+559	 Santa Cruz do Capibaribe	 Pernambuco	1.262.032
+560	Carambeí	 Paraná	1.254.970
+561	Flores da Cunha	 Rio Grande do Sul	1.249.485
+562	Jaguariaíva	 Paraná	1.249.429
+563	 Serra Talhada	 Pernambuco	1.247.288
+564	Curvelo	 Minas Gerais	1.244.149
+565	Marechal Deodoro	 Alagoas	1.239.678
+566	Quatro Barras	 Paraná	1.235.878
+567	Correntina	Bahia Bahia	1.234.252
+568	Rosana	 São Paulo	1.230.761
+569	 Sidrolândia	 Mato Grosso do Sul	1 230 749
+570	 Lagarto	 Sergipe	1.228.320
+571	Três Marias	 Minas Gerais	1.227.901
+572	Cosmópolis	 São Paulo	1.227.129
+573	Estrela	 Rio Grande do Sul	1.226.719
+574	Rio Branco do Sul	 Paraná	1.225.469
+575	 Carpina	 Pernambuco	1.217.386
+576	São Miguel do Oeste	 Santa Catarina	1.216.502
+577	Picos	 Piauí	1.214.900
+578	 São Gabriel do Oeste	 Mato Grosso do Sul	1 204 865
+579	 Ulianópolis	Pará Pará	1.202.327
+580	Eldorado do Sul	 Rio Grande do Sul	1.197.148
+581	Valença	Bahia Bahia	1.196.824
+582	Bandeira Sarandi.jpg Sarandi	 Paraná	1.195.132
+583	 Itapipoca	 Ceará	1.189.218
+584	Ibitinga	 São Paulo	1.189.077
+585	Aracati	 Ceará	1.082.530
+586	Espírito Santo do Pinhal	 São Paulo	1.179.292
+587	 Itápolis	 São Paulo	1.167.132
+588	Osório	 Rio Grande do Sul	1.163.688
+589	Belo Oriente	 Minas Gerais	1.160.578
+590	Pojuca	Bahia Bahia	1.157.686
+591	Goiatuba	 Goiás	1.156.003
+592	 Cruzeiro do Sul	 Acre	1.153.034
+593	São Mateus do Sul	 Paraná	1.152.404
+594	 Costa Rica	 Mato Grosso do Sul	1 151 908
+595	Mandaguari	 Paraná	1.151.596
+596	Portão	 Rio Grande do Sul	1.144.743
+597	Taquara	 Rio Grande do Sul	1.139.626
+598	São Miguel dos Campos	 Alagoas	1.137.600
+599	 Jaru	 Rondônia	1.131.276
+600	Piedade	 São Paulo	1.129.675
+601	Descalvado	 São Paulo	1.129.196
+602	Japeri	 Rio de Janeiro	1.129.014
+603	 Porto Nacional	 Tocantins	1.120.815
+604	 Arraial do Cabo	 Rio de Janeiro	1.120.689
+605	Porto Belo	 Santa Catarina	1.118.772
+606	Imbituba	 Santa Catarina	1.115.949
+607	Morrinhos	 Goiás	1.112.843
+608	 Brumado	Bahia Bahia	1.105.932
+609	Barra Bonita	 São Paulo	1.103.599
+610	Parobé	 Rio Grande do Sul	1.100.549
+611	Bandeira de Piraquara.png Piraquara	 Paraná	1.097.829
+612	Dracena	 São Paulo	1.095.197
+613	Jales	 São Paulo	1.094.150
+614	 Ituverava	 São Paulo	1.089.411
+615	Charqueadas	 Rio Grande do Sul	1.087.105
+616	Itaqui	 Rio Grande do Sul	1.084.037
+617	Não-Me-Toque	 Rio Grande do Sul	1.082.352
+618	Nova Santa Rita	 Rio Grande do Sul	1.082.004
+619	João Pinheiro	 Minas Gerais	1.081.485
+620	Bayeux	 Paraíba	1.080.912
+621	 Coruripe	 Alagoas	1.074.892
+622	Palmeira das Missões	 Rio Grande do Sul	1.072.803
+623	Marialva	 Paraná	1.071.491
+624	Capão da Canoa	 Rio Grande do Sul	1.067.816
+625	Cajati	 São Paulo	1.067.029
+626	Bandeira de Bacabal.jpg Bacabal	 Maranhão	1.066.694
+627	Santo Antônio da Patrulha	 Rio Grande do Sul	1.065.787
+628	Bandeira maranguape ce.png Maranguape	 Ceará	1.059.651
+629	 Abaetetuba	Pará Pará	1.058.232
+630	Santa Inês	 Maranhão	1.057.385
+631	Campos do Jordão	 São Paulo	1.056.052
+632	Guabiruba	 Santa Catarina	1.052.578
+633	 Benevides	Pará Pará	1.051.903
+634	Rio das Pedras	 São Paulo	1.046.942
+635	Pompéia	 São Paulo	1.045.774
+636	Bandeira de Goianésia.jpg Goianésia	 Goiás	1.044.831
+637	 Guanambi	Bahia Bahia	1.043.024
+638	 Alta floresta	 Mato Grosso	1.040.126
+639	Quedas do Iguaçu	 Paraná	1.038.771
+640	Campina Grande do Sul	 Paraná	1.037.769
+641	Dom Pedrito	 Rio Grande do Sul	1.035.052
+642	Palmeira	 Paraná	1.031.486
+643	Bandeira de São Félix do Xingu.gif São Félix do Xingu	Pará Pará	1.030.825
+644	Teutônia	 Rio Grande do Sul	1.029.924
+645	Pedreira	 São Paulo	1.025.557
+646	Niquelândia	 Goiás	1.025.555
+647	 Mata de São João	Bahia Bahia	1.024.685
+648	 Parintins	 Amazonas	1.023.955
+649	Santa Maria de Jetibá	 Espírito Santo	1.020.195
+650	Juatuba	 Minas Gerais	1.019.896
+651	 Rolim de Moura	 Rondônia	1.015.124
+652	 Paranaíba	 Mato Grosso do Sul	1 011 919
+653	 Querência	 Mato Grosso	1.010.294
+654	 Veranópolis	 Rio Grande do Sul	1.008.026
+655	José Bonifácio	 São Paulo	1.004.709
+656	São Manuel	 São Paulo	1.004.515
+657	Cafelândia	 Paraná	1.003.559
+658	Bandeira de Bom Despacho MG.png Bom Despacho	 Minas Gerais	1.000.810
